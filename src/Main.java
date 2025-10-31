@@ -29,7 +29,7 @@ public class Main {
         + "\nQuantity: " + car2.getQuantity());
 
         car1.setColor("Blue");
-        car1.setPrice(17699.99);
+        car1.setPrice(17698.99);
         car1.delivery(3);
         car3.setBrand("Toyota");
         car3.setModel("RAV4");
